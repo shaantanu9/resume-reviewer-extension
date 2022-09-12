@@ -1,0 +1,8 @@
+@import '../globalStyles//variables';
+body {
+    background-color: $bodyBackgroundColor;
+    width: $popupWidth;
+    height: $popupHeight;
+    color: $colorBodyText;
+    font-family: $defaultFont;
+}
